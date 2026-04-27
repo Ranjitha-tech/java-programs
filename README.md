@@ -93,3 +93,36 @@ Practice writing and running basic Java programs
 
 Ranjitha N
 
+
+# Voting Eligibility Checker
+
+This is a simple Java program that checks whether a person is eligible to vote using basic `if` conditions.
+
+## 📌 Description
+
+The program takes a person's age as input and determines if they are allowed to vote or not.
+If the age is **18 or above**, the person is eligible to vote. Otherwise, they are not eligible.
+
+## ⚙️ Features
+
+* Uses simple `if` condition
+* Easy to understand logic
+* Beginner-friendly program
+
+## 🛠️ Technologies Used
+
+* Java
+
+## ▶️ How It Works
+
+1. Enter age
+2. Program checks condition:
+
+   * If age ≥ 18 → Eligible to vote
+   * Else → Not eligible
+
+## 👩‍💻 Author
+
+Ranjitha N
+
+
