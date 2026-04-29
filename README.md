@@ -189,5 +189,39 @@ This project is created as part of learning Java fundamentals and improving prog
 
 ---
 
-💡 *Consistent practice leads to mastery!*
+# Income Eligibility Checker (Java)
+
+This is a simple Java program that checks whether a student is eligible for a scholarship based on their income.
+
+## 📌 Description
+
+The program takes a fixed income value and uses an `if-else` condition to determine eligibility.
+
+* If income is greater than 7000 → Scholarship Available
+* Otherwise → Not eligible for scholarship
+
+## 💻 Technologies Used
+
+* Java
+* Basic If-Else Statement
+
+## ▶️ How to Run
+
+1. Compile the program:
+   javac Income.java
+
+2. Run the program:
+   java Income
+
+## 📂 Sample Output
+
+Not eligible for scholarship
+
+## 🎯 Purpose
+
+This program is useful for beginners to understand:
+
+* Conditional statements in Java
+* Basic program structure
+
 
